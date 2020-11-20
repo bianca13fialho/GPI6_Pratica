@@ -1,0 +1,86 @@
+Git
+***
+
+Comandos básicos, passo-a-passo:
+- git init
+  Cria o repositório
+
+- git config user.name "nomeUsuário"
+  Define o usuário
+
+- git config user.email "emailUsuario"
+  Define o e-mail
+
+- git remote add origin http://...
+  Aponta o repositório remoto
+
+- git add .
+  Adiciona todas as modificações
+
+- git commit -m "mensagem"
+  Salva as modificações feitas
+  A mensagem é obrigatória
+
+- git push origin master
+  Envia as modificações ao repositório remoto
+
+
+
+
+Outros comandos:
+----------------
+- git config --list
+  Mostra os dados de usuário e e-mail
+
+- pwd
+  Mostra qual é a pasta atual
+  Serve para garantir que não está em pasta errada.
+
+- mkdir
+  Criar pasta
+
+- git log
+  Mostra o commit, a branch, o autor, data e hora, mensagem
+	Ex.:
+  	commit 194d1e0f8db43ef74e01f9160f531bfa3ba10642 (HEAD -> master)
+	Author: Anderson Amicuchi 	<andersonamicuchi@gmail.com>
+	Date:   Fri Nov 20 10:27:23 2020 -0300
+    	Primeiro commit
+
+- git checkout versãoDoGit
+  Restaura o arquivo para a versão informada.
+  Para saber o endereço da versão desejada, basta executar o valor que aparece em commit depois de executar o "git log".
+  
+
+
+Documentação
+------------
+https://dev.to/t/git
+http://ohshitgit.com
+http://git-scm.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
