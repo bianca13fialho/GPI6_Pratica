@@ -63,7 +63,7 @@ http://git-scm.com
 
 
 
-alterando aquivos - by Alexandre Julião
+alterando arquivos - by Alexandre Julião
 
 
 

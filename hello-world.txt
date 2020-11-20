@@ -1,4 +1,4 @@
 Nos livrando da maldição do hello world =D
 
 
-alterando aquivos - by Alexandre Julião
+alterando arquivos - by Alexandre Julião
