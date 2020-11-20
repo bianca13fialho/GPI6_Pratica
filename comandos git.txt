@@ -37,3 +37,6 @@ cat > arquivo.txt texto a ser gravado (digita o texto no console e grava no arqu
 
 
 link de outros comandos: https://github.com/VictorCaldas/Github-Guide-to-code 
+
+
+alterando aquivos - by Alexandre Julião
