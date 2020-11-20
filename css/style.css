@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+body {
+    width: 900px;
+    background-color: burlywood;
+    margin: 0 15px;
+}
+
+
+/* Menu  */
+header {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ul {
+    display: flex;
+}
+ul li{
+    list-style: none;
+    padding: 5px;
+    transition: .5s;
+}
+ul li:hover{
+    background-color: rgb(173, 144, 106);
+}
+
+header img {
+    width: 100px;
+}
+
+/* fim Menu  */
+
+
+main {
+    margin-top: 10px;
+}
+
+.campo-tomato {
+    /* alterado fundo, font e espaço interno da div */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: tomato;
+    padding: 10px;
+}
+.campo-tomato h2{
+    
+    color: white;
+    text-transform: uppercase;
+}
